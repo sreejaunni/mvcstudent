@@ -3,12 +3,12 @@
 Steps
 
  1. First, download the framework, either directly or by cloning the repo.
- Run **composer update** to install the project dependencies.
+ 
  Open [App/Config.php](App/Config.php) and enter your database configuration data.
 
  2. Create Database db_students and dumb student.sql
  
-                student.sql consist of sample data too
+   student.sql consist of sample data too
 
 3 . Configure DataBase
 
