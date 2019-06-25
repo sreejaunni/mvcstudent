@@ -1,0 +1,28 @@
+[23-Jun-2019 09:12:52 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:14:30 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:14:31 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:16:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:16:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:16:30 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
+[23-Jun-2019 09:17:18 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\php-mvc-master\public\index.php(34): Core\Router->dispatch('students/')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\php-mvc-master\Core\Router.php' on line 130
