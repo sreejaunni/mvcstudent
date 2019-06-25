@@ -6,7 +6,7 @@ Steps
  
  Open [App/Config.php](App/Config.php) and enter your database configuration data.
 
- 2. Create Database db_students and dumb student.sql
+ 2. Create Database db_students and dumb [student.sql](student.sql)
  
    student.sql consist of sample data too
 
